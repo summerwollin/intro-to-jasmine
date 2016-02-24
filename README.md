@@ -16,3 +16,9 @@ Jasmine Instructions:
 
 5. add test (spec) suite 'describe'
   describe...it...expect
+
+6. add function to miles.js
+
+7. run jasmine in terminal, verify that we get a good red
+
+8. Update miles.js to get a green when running jasmine
